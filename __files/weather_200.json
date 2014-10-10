@@ -1,0 +1,10 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/weather"
+    },
+    "response": {
+        "status": 200,
+        "body": "{temperature:'30 degrees'}"
+    }
+}
